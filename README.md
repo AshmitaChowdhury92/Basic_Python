@@ -24,4 +24,13 @@ Whenever we are unsure about what to write inside of a loop but have idea
 that we are going to need this loop, in this case we just create the loop
 and pass it to next block so that code doesn't show error.
 
+### LIST:
+List is a datatype where we can store multiple things.
+
+Array vs list?
+1. array is homogenous. List contains different datatypes.
+2. array is much faster than list.
+3. in array data are stored in sequential memory location. but in list this is not the case.
+4. lists are more programmer friendly.
+
 
