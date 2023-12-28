@@ -2,7 +2,7 @@
 This GitHub repository offers fundamental Python code encompassing loops, functions, various container types, and more. Ideal for beginners, this collection provides a solid foundation for learning Python from scratch.
 
 # Notes
-## When to use Break, Continue, Pass statement:
+### When to use Break, Continue, Pass statement:
 ****** Break Statement:
 When we try to break the code at a particular condition.
 For example, I have a list of 1000 students and I want to find ID 5.
